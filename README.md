@@ -7,12 +7,12 @@ Binalar ve Ders Kitapları dışında tüm tabloların ikincil anahtarları vard
 
 **Format (Tablolar):**
 
-Kolej'in bir adı ve kimliği vardır.
-Binaların her birinin bir adı vardır.
-Dersliklerde projektör olup olmadığı belirtilecek, bina ve projektör bilgisi de verilecek.
+Kolejin bir adı ve kimliği vardır.
+Binaların her birinin adı vardır.
+Dersliklerde projektör olup olmadığı belirtilmekte, bina ve projektör bilgisi de verilmektedir.
 Bölümlerin her birinin bir kursu, binası, kişisi ve sınıfı vardır.
 Kursların adları ve ders kitaplarının ISBN'leri vardır.
-Ders Kitaplarının bir başlığı, yazarı ve ISBN'si vardır.
+Ders kitaplarının bir başlığı, yazarı ve ISBN'si vardır.
 Kişilerin isimleri ve telefon numaraları vardır.
 Pozisyon yetkililerinin unvanları, isimleri ve maaşları vardır.
 Öğrencilerin not ortalamaları ve isimleri vardır.
